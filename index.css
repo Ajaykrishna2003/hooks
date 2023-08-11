@@ -1,0 +1,24 @@
+
+Header{
+  background-color:#61dafb;
+}
+h1{
+  color:pink;
+  background-color: aqua;
+  bottom:10vh;
+}
+h2{
+  background-color: #00ffff;
+  color:red;
+  border: #00ffff;
+  transition-duration: 5s;
+}
+p{
+  background-color: #00ffff;
+}
+Content{
+  color:red;
+  border-radius: 12vb;
+  width: 700px;
+  height: fit-content;
+}
